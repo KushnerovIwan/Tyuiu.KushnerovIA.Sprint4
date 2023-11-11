@@ -19,7 +19,7 @@ namespace Tyuiu.KushnerovIA.Sprint4.Task3.V7
             Console.WriteLine("* Тема: Двумерные массивы. (статический ввод)                             *");
             Console.WriteLine("* Задание #3                                                              *");
             Console.WriteLine("* Вариант #7                                                              *");
-            Console.WriteLine("* Выполнил: Кушнеров Иван Антонович   | ИИПб-23-1                         *");
+            Console.WriteLine("* Выполнил: Кушнеров Иван Антонович   | ПКТБ-23-2                         *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
             Console.WriteLine("* Дан двумерный целочисленный массив 5 на 5 элементов, заполненный        *");

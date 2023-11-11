@@ -34,7 +34,7 @@ namespace Tyuiu.KushnerovIA.Sprint4.Task2.V16
             int[] array = new int[len];
             for (int i = 0; i < len; i++)
             {
-                array[i] = rnd.Next(2, 9);
+                array[i] = rnd.Next(2, 10);
                 Console.WriteLine(i + " элемент = " + array[i]);
             }
 
